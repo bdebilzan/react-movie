@@ -5,9 +5,6 @@ import { Routes, Route } from "react-router-dom";
 import { MovieProvider } from "./contexts/MovieContext";
 import NavBar from "./components/NavBar";
 
-//https://www.youtube.com/watch?v=G6D9cBaLViA
-//51:09
-
 function App() {
   return (
     <MovieProvider>

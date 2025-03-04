@@ -8,3 +8,13 @@ This is a simple movie app built with React that allows users to search for movi
 - **Popular Movies**: Display a list of popular movies fetched from The Movie Database API.
 - **Favorites List**: Users can add movies to their favorites list and remove them. The favorites list is saved in localStorage, so it's persisted even after refreshing the page.
 - **Responsive Design**: The app is fully responsive and optimized for both desktop and mobile devices.
+
+## Screenshots
+
+### Home Page
+
+![Home Page](./assets/popular.png)
+
+### Favorites Page
+
+![Favorites Page](./assets/favorites.png)

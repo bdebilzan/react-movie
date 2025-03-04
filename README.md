@@ -13,8 +13,8 @@ This is a simple movie app built with React that allows users to search for movi
 
 ### Home Page
 
-![Home Page](./assets/popular.png)
+![Home Page](src/assets/popular.png)
 
 ### Favorites Page
 
-![Favorites Page](./assets/favorites.png)
+![Favorites Page](src/assets/favorites.png)
